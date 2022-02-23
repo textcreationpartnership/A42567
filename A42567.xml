@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Presbyterian bramble, or, A short discourse of church government by L.G.</title>
+            <author>L. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42567</idno>
+            <idno type="STC">Wing G45</idno>
+            <idno type="STC">ESTC R40984</idno>
+            <idno type="EEBO-CITATION">19540593</idno>
+            <idno type="OCLC">ocm 19540593</idno>
+            <idno type="VID">109094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109094)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1687:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Presbyterian bramble, or, A short discourse of church government by L.G.</title>
+                  <author>L. G.</author>
+               </titleStmt>
+               <extent>[3], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Apologetic works.</term>
+               <term>Presbyterianism --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="appeal">
+            <pb facs="tcp:109094:1"/>
+            <head>The Authors Appeal.</head>
+            <lg>
+               <l>LO here (as priſoner at the bar) I ſtand,</l>
+               <l>Criticks command me, to hold up my hand;</l>
+               <l>They ſay I am arraign'd; I need no <hi>Cook</hi>
+               </l>
+               <l>To draw my charge, it follows in my Book;</l>
+               <l>No <hi>Bradſhaw</hi> to condemn; for there's a crew,</l>
+               <l>Cry burn the book, and hang the Author too.</l>
+            </lg>
+            <lg>
+               <l>But Reader stay, if needs <hi>I</hi> muſt be tryed,</l>
+               <l>The Welſhman's Jury ſhall not be deny'd,</l>
+               <l>The twelve Apoſtles. If then <hi>I</hi> have writ</l>
+               <l>Things Heterodox, or my unhappy wit</l>
+               <l>Doth contradict their Doctrine, Let me be</l>
+               <l>Cenſur'd by them, but not condem'd by thee.</l>
+            </lg>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:109094:1" rendition="simple:additions"/>
+            <p>THE PRESBYTERIAN BRAMBLE OR A SHORT DISCOURSE OF CHURCH GOVERNMENT.</p>
+            <p>
+               <hi>By</hi> L. G.</p>
+            <bibl>
+               <hi>Judges 9.15.</hi>
+            </bibl>
+            <q>
+               <p>And the bramble ſaid unto the trees, if in truth ye annoint me King over you, then come, and put your trust in my ſhadow and if not, let fire come out of the bramble and devour the Ce<g ref="char:EOLhyphen"/>dars of Lebanon.</p>
+            </q>
+            <bibl>
+               <hi>Matthew 7.16.</hi>
+            </bibl>
+            <q>
+               <p>Ye ſhall know them by their fruits; do men gather Grapes of Thornes or Figs of Thiſtles?</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the year 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109094:2"/>
+            <pb n="1" facs="tcp:109094:2"/>
+            <head>THE PRESBYTERIAN BRAMBLE.</head>
+            <p>THat which was once the contention of the Diſciples of Chriſt, hath ever ſince continued the common diſpute of the World, <hi>viz.</hi> a ſtriving <hi>who ſhould be the greateſt;</hi> &amp; this controverſie hath not only ſet Nation againſt Nati<g ref="char:EOLhyphen"/>tion, and Kingdom againſt Kingdom; (as it was when <hi>Alexander</hi> and <hi>Darius</hi> ſtrove who ſhould be Cock of the Worlds dunghil) but it hath alſo occaſioned Civil and Domeſtick broiles, where haughty and perverſe ſpirits have gone about to maintain their Principles by bloody Arguments. <hi>Nec Caeſar ferre Prio<g ref="char:EOLhyphen"/>rem, &amp;c.</hi>
+            </p>
+            <p>Our bleſſed Lord commands us to diſpute upon another queſtion that is, to ſtrive who ſhould be the leaſt.</p>
+            <p>If this Rule were but well obſerved, if Greatneſſe would but make way for Goodneſſe, and Pride give the wall to Humility, we ſhould then ſee glorious Times, and a happy Reformation.</p>
+            <p>But unto whom ſhall I compare the men of this Generation? I may juſtly ſay (with our Saviour) <hi>They are like unto Children play<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:109094:3"/>
+in the Market place, and ſaying, We have piped and ye have not danced;</hi> It is the ambition of Great perſons that others ſhould dance after their pipes.</p>
+            <p>There are in this Kingdom ſome Children in underſtanding (I dare not ſay in innocence) who cry out they will play no more at Biſhops, neither will they indure the muſick of <hi>Organs;</hi> but rather dance an other Scotch jigg after the <hi>Presbyterian</hi> Bag-pipes. Is it ſo beloved? marry God forbid.</p>
+            <p>We have had too much of that already; for give me leave to tell you Your muſick was like the muſick of <hi>Nero</hi> who played up<g ref="char:EOLhyphen"/>on his harp when he had ſet <hi>Rome</hi> on fire; and your dancing like the dancing of <hi>Herodias;</hi> for the beſt of Kings paid as dear for the one as the Greateſt of Prophets for the other.</p>
+            <p>But I hope we ſhall have no more ſuch <hi>Galliards,</hi> but that the Parliament will think upon the former muſick, and take care to pay the pipers.</p>
+            <p>That we live under a Government both Civil and Eccleſiaſti<g ref="char:EOLhyphen"/>cal; and that in both theſe, the King next unto God is over all perſons, and in all cauſes in theſe his Majeſties Dominions ſupream head and Governour, is a Principle which all ſober men own. And that under God, and his Vice-gerent the King, the Hierarchy of Biſhops ought to Govern the Church, is a truth ſufficiently pro<g ref="char:EOLhyphen"/>ved and illuſtrated by many learned pens; and that the factious Presbyterians who endeavour to ſubvert Epiſcopacy, and to aſ<g ref="char:EOLhyphen"/>ſume unto themſelves the like authority under an other name, are not (as they pretend) the Miniſters of Chriſt, I here call Gods ſacred word to witneſſe.</p>
+            <p>VVe are to live under a Government; for the Holy ſpirit com<g ref="char:EOLhyphen"/>mands us, to <hi>obey the higher powers,</hi> to give <hi>Caeſar his due,</hi> to <hi>fear God and honour the King;</hi> which are two inſeparable duties; He cannot be a good Chriſtian that is not a good Subject; for we may uſe the ſame Argument concerning fear, honour and obedience, which the Apoſtle doth concerning love, He <hi>that loveth not his brother whom he hath ſeen, cannot love God whom he hath not ſeen.</hi> So
+<pb n="3" facs="tcp:109094:3"/>
+he that honoureth not the King, who is his viſible God, cannot fear God, who is his inviſible King.</p>
+            <p>VVhen <hi>Adam</hi> ſtrove to be equal with his Creator, he was no longer ſuffered to continue in Paradiſe; when Traytors ſtrive to be equal with their Soveraign, they are no longer worthy to live upon the earth, but as infected members ſpeediy to be cut off, <hi>Ne<g ref="char:EOLunhyphen"/>pars ſincera trahatur.</hi>
+            </p>
+            <p>This indeed is a truth, which men will not (or at leaſt dare not) deny. Monarchy they embrace, but Praelacy they abhor; and though they kneel to the Crown yet they ſcorn to bow to the Miter, and the ſilly Countrymen are perſwaded that Epiſcopacy is the ſi<g ref="char:EOLhyphen"/>ſter of Popery, and therefore they are loth to pin their faith up<g ref="char:EOLhyphen"/>on lawn ſleeves; And this fooliſh miſconſtruction is wrought, by ſome of our modern Phariſes, <hi>who strain at a Gnat and ſwallow a Camel;</hi> and although they cannot reliſh the Biſhops, yet could make ſhift to devour their lands. And therefore for the defence of Praelacie, I ſhall make uſe of two weapons, Scripture and Rea<g ref="char:EOLhyphen"/>ſon, which no man that is either Rational or Religious, will call un<g ref="char:EOLhyphen"/>lawful.</p>
+            <p>That which is lawful for others to deſire, is lawful for the King and Parliament to grant, (this is reaſon) <hi>If a man deſireth the office of a Biſhop, he deſireth a good work</hi> (this is Scripture) Now that which is good to be deſired tis good to be granred, And <hi>if he that deſireth the office of a Biſhop, deſireth a good work;</hi> then they who deſire the diſtructrion of Biſhops, and the utter aboliſhing of that office, do certainly deſire an evill work.</p>
+            <p>The Office of a Biſhop we may partly read in his name, that is, an Overſeer; here are in a Pariſh Officers called Overſeers of the poor, even ſuch are the Biſhop in the Church of Chriſt.</p>
+            <p>Our Lord and Maſter to prove his; Divinity tells the Diſciples of <hi>John</hi> of his wonderful works; and that which he did unto mens bodies when he was in the fleſh, the ſame he doth now unto their ſouls, <hi>viz. The blind receive their ſight, and the lame walk, the Lea<g ref="char:EOLhyphen"/>pers are cleanſed, the deaf hear, and the dead are raiſed up, and the poor have the Goſpell preached unto them.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:109094:4"/>True it is that we are all naturally blind in our underſtanding, and lame in our practices, and it is none but Chriſt that can make us ſee clearly or walk uprightly; he waſhed the Leprous ſinner in his own blood. He gives unto thoſe who are deaf unto any thing which is good, hearing ears; and raiſes up thoſe who are dead in ſins and treſpaſſes, unto a newneſſe of life; And laſtly, where<g ref="char:EOLhyphen"/>in all the reſt of the miracles are ſummed up, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is, the Poor are Goſpeliz'd, or made conformable unto the Goſpel; and for this purpoſe hath God appointed theſe Biſhops or Over<g ref="char:EOLhyphen"/>ſeers, that thoſe who are poor both in ſpirit and purſe, may have the bread of life broken unto them. It is the duty of a faithful ſer<g ref="char:EOLhyphen"/>vant to give unto his Maſters houſhould their meat in due ſeaſon; <hi>bleſſed is he whom his Lord ſhall find ſo doing.</hi>
+            </p>
+            <p>
+               <hi>A Biſhop must be blameleſs, the Husband of one Wife, Vigilant, Sober, of good behaviour, given to Hoſpitality, apt to teach; not given to wine, no striker, not greedy of filthy lucre, but patient; not a brawler, not covetous, &amp;c.</hi> I heartily wiſh that the Miniſters of <hi>England</hi> would leave off to diſpute concerning the office, and ſtrive rather to ob<g ref="char:EOLhyphen"/>tain the qualifications.</p>
+            <p>Neither have the Apoſtles words been as a rule without any examples; but the Primitive and late times have both been preg<g ref="char:EOLhyphen"/>nant of ſuch Biſhops, who have taken the degrees of Apoſtle and Martyr in this world and afterward commenced Saints in another; We need to look no further back then Queen <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> reign, and there behold the conſtant ſufferings and glorious Martyrdom of <hi>Cranmer, Hooper, Ridly</hi> and <hi>Latimer,</hi> all four Bi<g ref="char:EOLhyphen"/>ſhops; And for ſhining lights in the Church, we have <hi>John Jewel,</hi> and <hi>John Davenant,</hi> both Biſhops of <hi>Sarum, Lancelet An<g ref="char:EOLhyphen"/>drews</hi> Biſhop of <hi>Wincheſter, Joſeph Hall</hi> Biſhop of <hi>Norwich,</hi> and others now living, of whoſe learned and pious works the greateſt of their Enemies daily make uſe, although they caſt dirt upon the Authors; Baſe, ungratefull Spirits who go about to cut down the trees when they have filled their budgets with the fruit.</p>
+            <p>
+               <pb n="5" facs="tcp:109094:4"/>Well, ſay the Zealots of the times, we acknowledg all this; Biſhops, with theſe qualifications, we admit but no Lord Biſhops; it ſeems then their greatneſs is their crime; and becauſe the height of <hi>Grantham</hi> ſteeple makes it look crooked, it muſt therefore be pulled down. Thus it hath been alwayes the policy of the Devil and wicked men to keep Miniſters poor, that they might either ſink under their ſufferings, or be Contemptible in the ſight of the people. It is not long ſince black-coats gave the wall to red-coats, and old <hi>Tullies Cedant arma Togae</hi> were out of date; and could the malice of men have prevailed, thoſe that now ſerve at the altar of God, had been made hewers of wood and drawers of water; And there had been as little Lordſhip belonging to a Biſhop as Grace to a Presbyterian. But it hath pleaſed our graci<g ref="char:EOLhyphen"/>ous King to ſhew his love unto Chriſt by honouring his Embaſſa<g ref="char:EOLhyphen"/>dours; and unto thoſe to whom God hath given the gifts of Bi<g ref="char:EOLhyphen"/>ſhops, hath he given the titles of Lords. <hi>And therefore Why do the people rage? Why do they imagine a vain thing?</hi> Let dogs bark at the Moon, and fools throw ſtones againſt the Wind: Yet they that are of God; will ſtand.</p>
+            <p>Thus (in this great Eccleſiaſticall combate) we have taken a view of one of our Champions, that is <hi>David,</hi> the Biſhop, or E<g ref="char:EOLhyphen"/>vangelicall Shepheard, and the manner of his coming, that is in the name of the Lord.</p>
+            <p>But now enter <hi>Goliah,</hi> a thing of ſix cubits, a prieſt Ram<g ref="char:EOLhyphen"/>pant, <hi>Simeon</hi> and <hi>Levi,</hi> the word and ſword quartered in a ſhield, a long tuck, a buffe coat, and a white-leather conſcience; look up<g ref="char:EOLhyphen"/>on him Reader. Is he moſt like a ſheep, or wolfe?</p>
+            <p>We are commanded not to believe every ſpirit, but have <hi>liber<g ref="char:EOLhyphen"/>ty to try the Spirits;</hi> and there is no other way of trial then by the Scriptures, the old and new Teſtaments.</p>
+            <p>The beſt way of old Teſtament trial, is to take them up into Mount <hi>Carmel,</hi> where <hi>Elijah</hi> contended with <hi>Baals</hi> prophets, we may there obſerve two things in <hi>Baals</hi> prophets, which are exactly parallel'd in the Presbyterians.</p>
+            <p n="1">
+               <pb n="6" facs="tcp:109094:5"/>1. <hi>Baals</hi> Prophets were bauling prophets, they <hi>cryed out and propheſied from morning to evening.</hi>
+            </p>
+            <p>So were the Presbyterians, witneſs their Faſts and tedious Lectures, which were but like the <hi>Jews new Moons and appointed feasts,</hi> and the Phariſes <hi>almes and long prayers, an abomina<g ref="char:EOLhyphen"/>tion in the ſight of the Lord;</hi> for it is a fearfull thing when Mens ſins cry louder for Judgement, then their prayers for mercy, and when the hands which they lift up are <hi>full of blood.</hi>
+            </p>
+            <p n="2">2. <hi>Baals</hi> prophets were cutting prophets; they cut, and ſlaſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t themſelves with knives and lancers; So were the Presbyterians, witneſs <hi>Worcester</hi> fight, and the riſing of Sir <hi>George Booth,</hi> when the very Prieſts were in actuall armes, blowing up the coals of diviſion amongſt us, which was no other then to make the body Politick of this Nation (after the manner of <hi>Baals</hi> worſhip) to cut and wound her ſelf with ſwords and inſtruments of cruelty. There is a bleſſed ſentence, <hi>Mathew</hi> 5.9. <hi>Beati ſunt Pacifici,</hi> how little ſhare have theſe men in that Beatitude!</p>
+            <p>Be wiſe now therefore ye men of <hi>England; If the Lord be God, fol<g ref="char:EOLhyphen"/>low him, but if</hi> Baal <hi>be God, follow him; Halt no longer between two o<g ref="char:EOLhyphen"/>pinions;</hi> Is there a greater contradiction in Lord Biſhop, then in Captain Parſon? do you deteſt a ſurplice and hug a coat of mail? is not a tippet more decent then a belt of Bandeleers? is not <hi>Da<g ref="char:EOLhyphen"/>vids</hi> muſick more pleaſant then that of drums and trumpets? A true Miniſter hath no other ſword ſave that of the ſpirit, no o<g ref="char:EOLhyphen"/>ther ſheild ſave that of faith; yet in his ſcrip he hath ſo much learning and piety, as (like the ſmooth ſtones of the brook) ſhall wound the brazen foreheads of all his proud gainſayers.</p>
+            <p>But beſides this, there is a new Teſtament Trial; They who are the diſciples of Chriſt, obey their Maſters commands; the com<g ref="char:EOLhyphen"/>mand is to ſtay there where the place is worthy; and where it is not, to be gone; now I appeal to the experience of the Country, whether or no the Presbyterians obeyed this; they looked not at the worth of the people, but at the value of the yearly ſtipend; how common and frequent was it to ſee ſome coveteous young No<g ref="char:EOLhyphen"/>vice
+<pb n="7" facs="tcp:109094:5"/>
+placed amongſt worthy Neighbours, having a competent al<g ref="char:EOLhyphen"/>lowance (had he known what a competence was) but hearing of a wealthy perſonage, <hi>Praesto</hi> Sir <hi>John,</hi> away flyes he, and leaves <hi>Ninive</hi> to go to <hi>Tarſhiſh!</hi> It was therefore an ingenious anſwer of a North Country Man to Mr. <hi>Vicar,</hi> who asked of him <hi>What is the chief end of Man?</hi> he replyed, To run from a ſmall be<g ref="char:EOLhyphen"/>nefice to a great one. For ſurely that hath been the end of theſe ſons of <hi>Belial</hi> who (though they call themſelves the Ambaſſa<g ref="char:EOLhyphen"/>dours of Chriſt) yet they never obeyd their Commiſſion, but in Gods livery ſerved <hi>Mammon.</hi>
+            </p>
+            <p>Thus we have ſpoken of the way of <hi>Cain,</hi> that is their cruelty; and of the errour of <hi>Balaam</hi> that is their coveteouſneſs; we ſhall now conſider the gainſaying of <hi>Korah;</hi> What ſtrange fire did they of<g ref="char:EOLhyphen"/>fer at Gods altar! How often might you have gone to the place of publick worſhip, and heard neither the Lords prayer, the Decalogue of <hi>Moſes,</hi> nor the Apoſtles Creeds, without which we know not how to pray, what to do, or what to believe.</p>
+            <p>Our Saviour Chriſt teacheth us how to pray, both negatively and poſitively; Not like the Phariſees, but after this manner; The Presbyterians pray'd not in the words of Chriſt, but like thoſe Hippocrites uſed vain Repetitions; and therefore it is now time for them to ſay we have left undone thoſe things which we ought to have done, and We have done thoſe things which we ought not to have done. It was <hi>Moſes</hi> his Plea unto God when he was to be ſent into <hi>Aegypt, I am not eloquent;</hi> perhaps he foreſaw the perverſeneſs of the men of this age, who thought him not e<g ref="char:EOLhyphen"/>loquent enough to ſpeak in their Congregation; Yet when the ruler demanded of <hi>Jeſus, What he ſhould do to inherit eternal life;</hi> He replyed, <hi>Thou knoweſt the Commandements, &amp;c.</hi>
+            </p>
+            <p>In the twelfth chapter of the book of the <hi>Revelation,</hi> we read of a Woman <hi>cloathed with the Sun, having the moon under her feet, and on her head a crown of twelve stars;</hi> This Woman is the Church of God, the Sun is the Sun of Righteouſneſs, the Moon is this uncon<g ref="char:EOLhyphen"/>ſtant World, the crown of twelve ſtars is the doctrine of the A<g ref="char:EOLhyphen"/>poſtles,
+<pb n="8" facs="tcp:109094:6"/>
+The Symbolum Apoſtolicum is very true believers Diadem; but it is no wonder that that hand which robb'd the King of his Crown, ſhould alſo deprive the Church of hers.</p>
+            <p>I confeſs, I am loth to uſe ſuch tart expreſſions; but I hope I may (without offence) defend the truth with ſuch blowes as o<g ref="char:EOLhyphen"/>thers give who fight againſt it.</p>
+            <p>I do remember that in the heat of theſe late wars, There was publiſhed a ſeditious Libel called The ſimple Cobler, &amp;c. where<g ref="char:EOLhyphen"/>in amongſt other Conumdrums there was a Phanatical (I ſhould have ſaid prophetical) diſtich. <hi>Viz.</hi>
+            </p>
+            <q>
+               <l>There are a ſet of Biſhops coming next behind,</l>
+               <l>That will ride the Divell off his legs, and break his wind.</l>
+            </q>
+            <p>Indeed ſuch ugly words cannot deſerve a comment, yet we may correct an erratum; for Biſhops read Presbyterians. All the Kingdom knowes that they were the rank riders. But how has the foul fiend played the Hobgobblin with them! how do they now tumble in the mire, who lately ſate in the ſaddle! poor <hi>Hugh Peters</hi> fell ſo that his neck was broken; others are crippled, both in their Eſtates and opinions; and they may have all time to ſpend that under the Divels belly, which they got upon his back. But how the Divel ſhould become broken-winded I know not, unleſs it was done when <hi>O. C.</hi> rode poſt into another World.</p>
+            <p>But ſtay my over haſty pen! I fear I have writ ſomething that will not ſuit with the genius of ſober men. The naked truth needs no ſuch antick dreſs; Divinity and Drollery are an unlawfull mix<g ref="char:EOLhyphen"/>ture; And therefore it becomes me to beg pardon of the impar<g ref="char:EOLhyphen"/>tial reader, and withall to ſignifie that by the vvord Presbyterian, I do not mean all that are ſo called, far be it from me to go about to ſtain the reputation of any Godly and Learned Miniſters, as <hi>Bax<g ref="char:EOLhyphen"/>ter, Calamy</hi> and others, whoſe piety and pains in the Church of God have deſerved the praiſe of all good men; <hi>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne vir, hoc nihil ad te.</hi> But as for thoſe ſeditious ſpirits that were Incendiaries in
+<pb n="9" facs="tcp:109094:6"/>
+the old rebellion, and would novv begin a nevv, that take upon them the name Presbyterian only to fight againſt Praelacy (for ſo the builders of <hi>Babel</hi> vvere confounded in their language) Indeed the vvord Presbyter had at firſt a good ſignification, as Tyrant, Magick, and other vvords, vvhich through the corruption of Men have loſt their old Etymology; Tyrant anciently did ſignifie a King, but novv it ſignifies an <hi>Oliver;</hi> Magick formerly ſignified Philoſophy, but novv it is taken for Witch-craft; and the name Presbyter vvas once an Elder, but now it is uſed for a Scotch Rebell, or an Engliſh Traitour. It is obſerved that once a great faſhion in this Nation, vvas, to vvear yellovv ſtarched Ruffes. But after one Mrs. <hi>Turner</hi> (a notorious Witch, and ſtrumpet, vvas hanged vvith one of them about her neck, the mode became odious and vvas quite left off. Truly Reader, I think it is high time for us to lay aſide the name Presbyterian vvhich is nothing but a ſtarched piece of Auſtority, becauſe <hi>Hugh Peters</hi> (vvho poyſoned more with his doctrine then Mrs. <hi>Turner</hi> with her potions) wore it (as a livery) when he went to the gallowes,</p>
+            <p>I think it is high time for <hi>England</hi> to begin to be ſober, and eve<g ref="char:EOLhyphen"/>ry man to bring his heart as a ſtone to the ſpiritual building of the Church of Chriſt? without repentance and ſelf-denyal, the ſtones cannot be hewn and made fit for the Fabrick; without faith they cannot be built up; without love they cannot be joyned and ce<g ref="char:EOLhyphen"/>mented; without decency, order and Government, there will ſtill be a confuſion, and not one ſtone left upon another.</p>
+            <p>For this end there is a neceſſity of Epiſcopacy, experience hath taught us the inconvenience of Presbytery. For though <hi>I</hi> dare not call them the ſons of perdition, I may confidently ſay they are the fathers of Confuſion.</p>
+            <p>It is reported of a Grave Senator of the Rump Parliament, that He ſat many years in the houſe, and yet (like <hi>Balaams</hi> Aſſe) he never ſpake but once, and when he ſpake his words were theſe, Mr. <hi>Speaker, I conceive it is neceſſary that we cauſe the window to be ſhut.</hi> Doubtleſſe theſe words could not gain his worſhip the re<g ref="char:EOLhyphen"/>putation
+<pb n="10" facs="tcp:109094:7"/>
+of an Oratour, but had the Parliament been then con<g ref="char:EOLhyphen"/>ſulting about <hi>Church Government,</hi> his advice had been then as excel<g ref="char:EOLhyphen"/>lent as it is now ridiculous, that is, to cauſe that window to be ſhut by a wholeſome Law, that had been too long held open by to<g ref="char:EOLhyphen"/>leration of Opinions and Liberty of Conſcience.</p>
+            <p>I ſhall conclude with the words of a famous Divine, which were part of his laſt prayer, <hi>Lord strike through the reins of thoſe who riſe up againſt the Church and King; make them as chaff before the wind, and as ſtubble before the fire; but upon himſelf and his ſeed let his Crown flouriſh.</hi>
+            </p>
+            <div type="part">
+               <head>Wharton.</head>
+               <lg>
+                  <l>WHat changelings where the Presbyterian crew,</l>
+                  <l>That pull'd old croſſes down, to build up new?</l>
+                  <l>That durſt adventure on ſuch dangerous ſhelves,</l>
+                  <l>As to unſaint th' Evangelists themſelves,</l>
+                  <l>And left us not a Feſtival beſide:</l>
+                  <l>What they had called and had ſanctifi'd.</l>
+               </lg>
+               <lg>
+                  <l>But heav'ns are just, for lo they're forc'd to bow;</l>
+                  <l>The Synods down, and ſtinking Elders too:</l>
+                  <l>Only they bark at moonſhine now and then,</l>
+                  <l>To ſhew that they are Dogs rather then Men.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>The Authors Eccho.</head>
+               <l>THen down with 'um, let them no longer ſtand,</l>
+               <l>Baſe caterpillers that conſum'd the land,</l>
+               <l>
+                  <pb n="11" facs="tcp:109094:7"/>That rent the common-prayer book and lawn ſleeves,</l>
+               <l>And made the houſe of God a Den of thieves.</l>
+               <l>O may the ſacred Pulpit now be free</l>
+               <l>From ſuch Quacksalvers in Divinitie!</l>
+               <l>Let 'um be Pedagogues oth' laſhing trade,</l>
+               <l>And whip their boyes as C— did his Maid;</l>
+               <l>Or elſe return unto there Zealous Tub,</l>
+               <l>And their be Chaplains to Don Belzebub.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
